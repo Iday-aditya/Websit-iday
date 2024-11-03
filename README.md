@@ -1,2 +1,2 @@
 # Websit-iday
-Website ibi dibuat untuk belajar
+Website ini dibuat untuk belajar
